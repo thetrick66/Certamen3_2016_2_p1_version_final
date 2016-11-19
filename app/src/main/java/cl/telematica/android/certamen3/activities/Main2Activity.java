@@ -10,7 +10,7 @@ import cl.telematica.android.certamen3.presenters.Certamen3PresenterImpl;
 import cl.telematica.android.certamen3.presenters.contracts.Certamen3Presenter;
 
 /**
- * Created by Patricio on 18-11-2016.
+ * Created by Patricio on 18-11-2016..
  */
 public class Main2Activity extends AppCompatActivity {
     private RecyclerView mRecyclerView;
